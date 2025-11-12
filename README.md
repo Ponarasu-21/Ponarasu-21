@@ -47,7 +47,7 @@
 
 | Project | Description | Tech Stack | Link |
 |----------|--------------|-------------|------|
-| **Portfolio Website** | Personal website showcasing my work | HTML, CSS, JS | [View Repo](https://github.com/Ponarasu-21/portfolio) |
+| **Portfolio Website** | Personal website showcasing my work | HTML, CSS, JS | [View Repo](https://ponarasu-21.github.io/portfolio-ponarasu/)|
 | **Expense Tracker** | Track income and expenses with dashboard | React, Node.js, MongoDB | [View Repo](https://github.com/Ponarasu-21/expense-tracker) |
 | **Blog App** | Create, edit, and manage posts | Django, SQLite | [View Repo](https://github.com/Ponarasu-21/blog-app) |
 
